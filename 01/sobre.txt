@@ -1,0 +1,17 @@
+Neste capítulo, iniciamos a nossa jornada pelo mundo da
+programação pandas apresentando a ED Series, estrutura básica e
+fundamental do pacote. Se você pretende utilizar a pandas de forma
+profissional, é muito importante que você aprenda a trabalhar muito
+bem com esta ED, compreendendo as suas propriedades e
+dominando os tipos de operações que podem ser realizadas sobre
+dados que estejam nela estruturados. O capítulo aborda os
+seguintes temas:
+Criação e propriedades básicas
+Técnicas para consulta e modificação de dados
+Computação vetorizada
+Índices datetime
+Indexação hierárquica
+
+Series é uma ED composta por um vetor de dados e um vetor
+associado de rótulos, este último chamado de índice (index). Ou
+seja: Series = vetor de dados + vetor de rótulos.
